@@ -11,3 +11,8 @@
 ## プログラミング言語
 
 * Ruby + RSpec
+
+## お題
+
+* Yearクラスの閏年判定メソッド`leap_year?`
+* FizzBuzzクラス
